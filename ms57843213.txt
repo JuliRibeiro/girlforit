@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Arquivo de verificação de propriedade do domínio para Microsoft 365 local na raiz do site",
+  "Domain": "byjhulyribeiro.com.br",
+  "Id": "ed74b95a-ab7a-4081-97dd-38b7a27d7a70"
+}
