@@ -61,6 +61,8 @@ body{
     float: left;
     text-align: justify;
     padding: 10px; 
+    padding-left: 20px;
+    padding-right: 10px;	
 }
 
 #aulas{
@@ -71,7 +73,7 @@ body{
 
 #video{
     clear:both;
-    padding: 10px;
+    padding: 15px;
 }
 
 .coluna {
@@ -80,6 +82,6 @@ body{
    }
 
 .dois{
-    width: 40%;
+    width: 42%;
     text-align: justify;
 }
