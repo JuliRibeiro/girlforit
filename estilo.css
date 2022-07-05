@@ -53,14 +53,14 @@ body{
 
 #imagem_esquerda{
     float: left;
-    padding-right: 10px;
+    padding-right: 20px;
     padding-left: 30px;
 }
 
 .texto{
     float: left;
     text-align: justify;
-    padding: 10px;	
+    padding: 15px;	
 }
 
 #aulas{
@@ -80,6 +80,6 @@ body{
    }
 
 .dois{
-    width: 42%;
+    width: 40%;
     text-align: justify;
 }
